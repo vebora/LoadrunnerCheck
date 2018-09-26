@@ -10,6 +10,7 @@ Action()
 		"   \"postalCode\":\"10021\""
 		"}"		
 		"}";
+	lr_output_message("Hello this is my first script");
 	lr_save_string(json_input,"temp1");
 	return 0;
 }
