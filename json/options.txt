@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\vebora\Desktop\scripts\json
+-IC:\Program Files (x86)\HP\Performance Center Host\include
+-ec:\users\vebora\desktop\scripts\json\\logfile.log
+c:\users\vebora\desktop\scripts\json\\combined_json.c
+c:\users\vebora\desktop\scripts\json\\pre_cci.c
